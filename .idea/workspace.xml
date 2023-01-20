@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="nkstool:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46579bd5-828d-443b-b736-c4c0712089f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/nkstool_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/nkstool_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hook/cc/binmt/signature/PmsHookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hook/cc/binmt/signature/PmsHookApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nkstool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nkstool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nkstool.jar" beforeDir="false" afterPath="$PROJECT_DIR$/nkstool.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cc/binmt/signature/PmsHookApplication.smali" beforeDir="false" afterPath="$PROJECT_DIR$/src/cc/binmt/signature/PmsHookApplication.smali" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1v6m2Y0M2sznkc90BATRjwPgg9p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/support-annotations-25.3.1.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29885057" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cc.binmt.signature.NKillSignatureTool" />
+      <module name="nkstool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46579bd5-828d-443b-b736-c4c0712089f6" name="Default Changelist" comment="" />
+      <created>1625890705417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625890705417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1049" y="374" key="#Project_Structure" timestamp="1674090171447">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1049" y="374" key="#Project_Structure/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674090171447" />
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1674088325371">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674088325371" />
+    <state x="1137" y="364" key="FileChooserDialogImpl" timestamp="1674089401067">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1137" y="364" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674089401067" />
+    <state width="2500" height="388" key="GridCell.Tab.0.bottom" timestamp="1674116073019">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="388" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674116073019" />
+    <state width="2500" height="388" key="GridCell.Tab.0.center" timestamp="1674116073019">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="388" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674116073019" />
+    <state width="2500" height="388" key="GridCell.Tab.0.left" timestamp="1674116073019">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="388" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674116073019" />
+    <state width="2500" height="388" key="GridCell.Tab.0.right" timestamp="1674116073019">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2500" height="388" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674116073019" />
+    <state x="781" y="331" key="SettingsEditor" timestamp="1674090176421">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="331" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674090176421" />
+    <state x="841" y="165" width="1444" height="1047" key="find.popup" timestamp="1674088991507">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="841" y="165" width="1444" height="1047" key="find.popup/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1674088991507" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc/binmt/signature/NKillSignatureTool.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc/binmt/signature/NKillSignatureTool.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cc/binmt/signature/NKillSignatureTool.java</url>
+          <line>152</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
